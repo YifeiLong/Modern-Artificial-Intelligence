@@ -1,2 +1,2 @@
 # Modern-Artificial-Intelligence
-Course project for Modern Artificial Intelligence
+Course projects for Modern Artificial Intelligence
