@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 I select some important file for detailed description.
 
-```powershell
+```
 .
 |-- README.md
 |-- __pycache__
