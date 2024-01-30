@@ -1,4 +1,4 @@
-# Lab 5: Multi-Model Sentiment Analysis
+# Lab 5: Multi-Modal Sentiment Analysis
 
 This is the repository of Modern AI course's final project in ECNU.
 
