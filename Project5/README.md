@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## Repository Structure
 
-I select some important file for detailed description.
+I select some important files for detailed description.
 
 ```
 .
