@@ -8,7 +8,7 @@
 pip install -r requirements.txt
 ```
 
-**注：**GRU模型最好使用Google Colab配置好相关包后运行，在本地运行可能会产生错误。
+**注**：GRU模型最好使用Google Colab配置好相关包后运行，在本地运行可能会产生错误。
 
 
 
